@@ -1,0 +1,60 @@
+body {
+    background-color: #FFF;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.left {
+    float: left;
+    padding: 0 0 0 25px;
+}
+
+.right {
+    float: right;
+    padding: 0 25px 0 0;
+}
+
+img {
+    padding: 150px 0 0 0;
+    display: block;
+    margin: 0 auto;
+}
+
+.google-search {
+    padding: 20px 0 0 0;
+    margin: 0 auto;
+    width: 500px;
+}
+
+textarea {
+    width: 500px;
+}
+.search-button {
+    padding: 10px 0 0 100px;
+    float: left;
+}
+
+.lucky-button {
+    float: right;
+    padding: 10px 100px 0 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background: #f2f2f2;
+    width: 100%;
+}
+
+.left-bottom {
+    float: left;
+    padding: 0 0 0 25px;
+}
+
+.right-bottom {
+    float: right;
+    padding: 0 25px 10px 0;
+}
